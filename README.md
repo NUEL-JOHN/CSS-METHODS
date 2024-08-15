@@ -1,2 +1,2 @@
 # CSS-METHODS
-Using different methods to write CSS
+Using each method to add CSS
